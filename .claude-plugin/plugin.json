@@ -1,0 +1,14 @@
+{
+  "name": "india-skills",
+  "displayName": "India Skills",
+  "version": "0.1.0",
+  "description": "Agent Skills for India-specific development: GST, TDS, UPI, Razorpay, Indian ID validation (GSTIN, PAN, IFSC, Aadhaar), lakh/crore formatting, addresses, DPDP privacy and the April-March financial year.",
+  "author": {
+    "name": "Akhil Garg",
+    "url": "https://github.com/akhilgarg07"
+  },
+  "homepage": "https://github.com/akhilgarg07/india-skills",
+  "repository": "https://github.com/akhilgarg07/india-skills",
+  "license": "MIT",
+  "keywords": ["india", "gst", "upi", "razorpay", "gstin", "pan", "aadhaar", "tds", "dpdp", "inr"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "india-skills",
+  "description": "Agent Skills that teach AI coding agents India-specific tax, payment, ID and formatting rules.",
+  "owner": {
+    "name": "Akhil Garg",
+    "url": "https://github.com/akhilgarg07"
+  },
+  "plugins": [
+    {
+      "name": "india-skills",
+      "source": "./",
+      "description": "GST, TDS, UPI, Razorpay, Indian ID validation, lakh/crore formatting, addresses, DPDP privacy and Indian financial-year skills.",
+      "category": "development",
+      "tags": ["india", "gst", "upi", "payments", "validation", "privacy"]
+    }
+  ]
+}

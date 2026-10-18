@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Eval run output (claude plugin eval writes here)
+evals/results/
+**/evals/results/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never commit secrets or real personal data
+.env
+.env.*
+*.pem
