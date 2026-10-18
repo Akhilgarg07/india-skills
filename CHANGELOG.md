@@ -16,7 +16,7 @@ First release. All facts last verified on 2026-10-18 (see each skill's `referenc
   `mobile_validate.py`, `pincode_validate.py`, `verhoeff.py`, `aadhaar_validate.py`, `gst_calc.py`,
   `invoice_check.py`, `tds_calc.py`, `upi_link.py`, `razorpay_signature.py`, `inr_format.py`,
   `amount_in_words.py`, `india_regions.py`, `fiscal_year.py`.
-- **Tests:** pytest suite for every script (413 tests), including real published GSTINs, RFC 4231
+- **Tests:** pytest suite for every script (416 tests), including real published GSTINs, RFC 4231
   HMAC vectors, and cross-checks against Node's `Intl.NumberFormat`.
 - **Evals:** 36 `claude plugin eval` cases with key-point graders and skill-fired checks.
 - **Packaging:** Claude Code plugin manifest and single-plugin marketplace (`.claude-plugin/`).
